@@ -165,7 +165,8 @@ section {
     padding: 10px;
 }
 
-.currency-value, .currency-value-to-convert {
+.currency-value,
+.currency-value-to-convert {
     font-weight: 400;
     font-size: 18px;
     line-height: 15px;
